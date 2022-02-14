@@ -16,8 +16,7 @@ const Home = () => {
 			<Jumbotron
 				title="A Warm Welcome!"
 				text="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam animi amet corrupti vitae suscipit deleniti repellendus iste modi enim, quasi est, quos praesentium ullam optio esse vero maiores iusto. Eaque?"
-				cta="Call to action!"
-			></Jumbotron>
+				cta="Call to action!"></Jumbotron>
 			<Carousel></Carousel>
 			<Footer></Footer>
 		</div>
