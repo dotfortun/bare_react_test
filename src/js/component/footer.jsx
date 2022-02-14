@@ -4,7 +4,7 @@ const Footer = () => {
 	return (
 		<footer class="footer mt-auto py-3 bg-dark">
 			<div class="container">
-				<span class="text-muted">Copyright &copy; 2022 Shane Bell</span>
+				<span class="text-muted">Copyright &copy; {Date().year} Shane Bell</span>
 			</div>
 		</footer>
 	);
