@@ -14,7 +14,7 @@ const Carousel = () => {
 					<Card
 						imgSrc="https://placekitten.com/505"
 						imgAlt="A cute kitten."
-						title="The second cute kitten"
+						title="Another cute kitten"
 						text="Lorem ipsum dolor sit amet, exercitation labore sunt cillum amet do officia amet."></Card>
 					<Card
 						imgSrc="https://placekitten.com/502"
